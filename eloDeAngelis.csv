@@ -1,0 +1,778 @@
+YIL,DRIVER1,VS1,VS2,DRIVER2
+1950,Giuseppe Farina,6,0,Luigi Fagioli
+1950,Juan Manuel Fangio,4,2,Giuseppe Farina
+1950,Juan Manuel Fangio,5,1,Luigi Fagioli
+1950,Prince Bira,3,1,Toulo de Graffenried
+1950,Yves Giraud-Cabantous,3,1,Louis Rosier
+1951,Alberto Ascari,4,1,Piero Taruffi
+1951,Alberto Ascari,4,1,Jose Froilan Gonzalez
+1951,Alberto Ascari,5,2,Luigi Villoresi
+1951,Andre Simon,3,1,Maurice Trintignant
+1951,Giuseppe Farina,4,0,Consalvo Sanesi
+1951,Giuseppe Farina,4,0,Felice Bonetto
+1951,Jose Froilan Gonzalez,4,1,Luigi Villoresi
+1951,Juan Manuel Fangio,7,0,Giuseppe Farina
+1951,Juan Manuel Fangio,4,0,Consalvo Sanesi
+1951,Juan Manuel Fangio,4,0,Felice Bonetto
+1951,Louis Rosier,3,2,Louis Chiron
+1951,Luigi Villoresi,5,0,Piero Taruffi
+1951,Maurice Trintignant,2,2,Robert Manzon
+1951,Robert Manzon,2,2,Andre Simon
+1952,Alan Brown,3,1,Eric Brandon
+1952,Alberto Ascari,5,0,Piero Taruffi
+1952,Alberto Ascari,5,1,Giuseppe Farina
+1952,Giuseppe Farina,6,0,Piero Taruffi
+1952,Jean Behra,1,0,Prince Bira
+1952,Maurice Trintignant,3,1,Robert Manzon
+1952,Peter Collins,4,0,Lance Macklin
+1952,Robert Manzon,4,2,Jean Behra
+1953,Alberto Ascari,8,0,Giuseppe Farina
+1953,Alberto Ascari,8,0,Luigi Villoresi
+1953,Alberto Ascari,8,0,Mike Hawthorn
+1953,Giuseppe Farina,6,2,Luigi Villoresi
+1953,Giuseppe Farina,7,1,Mike Hawthorn
+1953,Harry Schell,3,1,Jean Behra
+1953,Jose Froilan Gonzalez,3,1,Felice Bonetto
+1953,Juan Manuel Fangio,4,1,Jose Froilan Gonzalez
+1953,Juan Manuel Fangio,6,0,Onofre Marimon
+1953,Juan Manuel Fangio,6,1,Felice Bonetto
+1953,Lance Macklin,3,1,Peter Collins
+1953,Luigi Villoresi,6,2,Mike Hawthorn
+1953,Maurice Trintignant,4,2,Harry Schell
+1953,Maurice Trintignant,5,0,Jean Behra
+1953,Onofre Marimon,3,2,Felice Bonetto
+1953,Roy Salvadori,3,1,Kenneth McAlpine
+1954,Jose Froilan Gonzalez,6,1,Mike Hawthorn
+1954,Jose Froilan Gonzalez,7,0,Maurice Trintignant
+1954,Juan Manuel Fangio,6,0,Karl Kling
+1954,Juan Manuel Fangio,5,0,Hans Hermann
+1954,Karl Kling,3,2,Hans Hermann
+1954,Mike Hawthorn,7,1,Maurice Trintignant
+1955,Jean Behra,5,1,Luigi Musso
+1955,Jean Behra,6,0,Roberto Mieres
+1955,Juan Manuel Fangio,5,1,Stirling Moss
+1955,Juan Manuel Fangio,5,0,Karl Kling
+1955,Roberto Mieres,4,2,Luigi Musso
+1955,Stirling Moss,4,1,Karl Kling
+1956,Eugenio Castelloti,4,3,Peter Collins
+1956,Eugenio Castelloti,4,0,Luigi Musso
+1956,Eugenio Castelloti,4,0,Alfonso de Portago
+1956,Harry Schell,4,0,Maurice Trintignant
+1956,Jean Behra,4,1,Cesar Perdisa
+1956,Juan Manuel Fangio,7,0,Eugenio Castelloti
+1956,Juan Manuel Fangio,7,0,Peter Collins
+1956,Juan Manuel Fangio,4,0,Luigi Musso
+1956,Juan Manuel Fangio,4,0,Alfonso de Portago
+1956,Luigi Musso,3,1,Peter Collins
+1956,Peter Collins,4,0,Alfonso de Portago
+1956,Robert Manzon,2,2,Hermano da Silva Ramos
+1956,Stirling Moss,4,3,Jean Behra
+1956,Stirling Moss,5,0,Cesar Perdisa
+1957,Harry Schell,4,0,Giorgio Scarlatti
+1957,Harry Schell,2,2,Carlos Menditeguy
+1957,Jean Behra,6,0,Harry Schell
+1957,Juan Manuel Fangio,7,0,Harry Schell
+1957,Juan Manuel Fangio,5,1,Jean Behra
+1957,Juan Manuel Fangio,4,0,Giorgio Scarlatti
+1957,Juan Manuel Fangio,4,0,Carlos Menditeguy
+1957,Luigi Musso,3,2,Mike Hawthorn
+1957,Peter Collins,4,2,Mike Hawthorn
+1957,Peter Collins,4,1,Luigi Musso
+1957,Stirling Moss,4,1,Tony Brooks
+1957,Stirling Moss,3,1,Stuart Lewis-Evans
+1957,Tony Brooks,3,1,Stuart Lewis-Evans
+1958,Cliff Allison,4,3,Graham Hill
+1958,Jack Brabham,5,2,Roy Salvadori
+1958,Jean Behra,5,4,Harry Schell
+1958,Mike Hawthorn,7,0,Peter Collins
+1958,Mike Hawthorn,5,0,Luigi Musso
+1958,Mike Hawthorn,6,0,Wolfgang Von Trips
+1958,Peter Collins,3,2,Luigi Musso
+1958,Stirling Moss,6,3,Tony Brooks
+1958,Stirling Moss,6,2,Stuart Lewis-Evans
+1958,Tony Brooks,4,4,Stuart Lewis-Evans
+1959,Dan Gurney,3,1,Phil Hill
+1959,Graham Hill,5,0,Innes Ireland
+1959,Harry Schell,5,0,Ron Flockhart
+1959,Jack Brabham,7,0,Bruce Mclaren
+1959,Jack Brabham,6,0,Masten Gregory
+1959,Jo Bonnier,5,2,Harry Schell
+1959,Jo Bonnier,5,0,Ron Flockhart
+1959,Masten Gregory,5,0,Bruce Mclaren
+1959,Phil Hill,3,2,Cliff Allison
+1959,Stirling Moss,6,0,Maurice Trintignant
+1959,Tony Brooks,6,1,Phil Hill
+1959,Tony Brooks,3,1,Dan Gurney
+1959,Tony Brooks,4,1,Cliff Allison
+1960,Graham Hill,4,3,Jo Bonnier
+1960,Graham Hill,5,2,Dan Gurney
+1960,Jack Brabham,6,0,Tony Brooks
+1960,Jack Brabham,8,0,Bruce Mclaren
+1960,Jack Brabham,5,0,Olivier Gendebien
+1960,Jack Brabham,5,0,Masten Gregory
+1960,Jack Brabham,4,1,Maurice Trintignant
+1960,Phil Hill,4,4,Wolfgang Von Trips
+1960,Stirling Moss,5,0,Innes Ireland
+1960,Stirling Moss,4,0,Jim Clark
+1961,Graham Hill,7,1,Tony Brooks
+1961,Jack Brabham,5,3,John Surtees
+1961,Jack Brabham,6,2,Bruce Mclaren
+1961,Jack Brabham,5,0,Roy Salvadori
+1961,Jack Brabham,5,0,Jackie Lewis
+1961,Jack Brabham,4,1,Maurice Trintignant
+1961,Jo Bonnier,5,3,Dan Gurney
+1961,Jo Bonnier,6,0,Carel Godin De Beaufort
+1961,Phil Hill,3,1,Wolfgang Von Trips
+1961,Phil Hill,4,2,Richie Ginther
+1961,Stirling Moss,7,1,Jim Clark
+1961,Stirling Moss,6,1,Innes Ireland
+1962,Bruce Mclaren,8,0,Tony Maggs
+1962,Dan Gurney,7,0,Jo Bonnier
+1962,Dan Gurney,6,0,Carel Godin De Beaufort
+1962,Graham Hill,8,1,Richie Ginther
+1962,Jim Clark,7,1,Innes Ireland
+1962,Jim Clark,5,0,Jack Brabham
+1962,Jim Clark,5,1,Masten Gregory
+1962,Jim Clark,8,1,Trevor Taylor
+1962,Jim Clark,6,0,Maurice Trintignant
+1962,John Surtees,7,1,Roy Salvadori
+1962,Phil Hill,3,2,Ricardo Rodriguez
+1963,Bruce Mclaren,8,2,Tony Maggs
+1963,Bruce Mclaren,10,0,Jo Bonnier
+1963,Graham Hill,10,0,Richie Ginther
+1963,Jack Brabham,4,5,Dan Gurney
+1963,Jim Clark,9,0,Trevor Taylor
+1963,Jim Clark,9,0,Jo Siffert
+1963,Jim Clark,9,0,Jim Hall
+1964,Bruce Mclaren,8,1,Phil Hill
+1964,Dan Gurney,9,1,Jack Brabham
+1964,Dan Gurney,8,0,Jo Bonnier
+1964,Dan Gurney,8,0,Bob Anderson
+1964,Dan Gurney,9,0,Jo Siffert
+1964,Graham Hill,10,0,Richie Ginther
+1964,Graham Hill,6,0,Giancarlo Baghetti
+1964,Innes Ireland,5,1,Trevor Taylor
+1964,Jim Clark,6,0,Mike Spence
+1964,Jim Clark,9,0,Chris Amon
+1964,Jim Clark,9,0,Mike Hailwood
+1964,Jim Clark,6,0,Peter Revson
+1964,John Surtees,9,1,Lorenzo Bandini
+1965,Bruce Mclaren,7,2,Jochen Rindt
+1965,Dan Gurney,4,2,Jack Brabham
+1965,Dan Gurney,5,0,Denny Hulme
+1965,Dan Gurney,8,1,Jo Bonnier
+1965,Dan Gurney,9,0,Jo Siffert
+1965,Dan Gurney,5,0,Bob Anderson
+1965,Dan Gurney,5,0,Frank Gardner
+1965,Graham Hill,7,3,Jackie Stewart
+1965,Jim Clark,9,0,Mike Spence
+1965,Jim Clark,7,0,Dick Attwood
+1965,Jim Clark,7,0,Innes Ireland
+1965,John Surtees,6,1,Lorenzo Bandini
+1965,Richie Ginther,4,2,Ronnie Bucknum
+1966,Jack Brabham,8,1,Denny Hulme
+1966,Jack Brabham,5,1,Bob Anderson
+1966,Jackie Stewart,4,4,Graham Hill
+1966,Jackie Stewart,5,0,Bob Bondurant
+1966,Jim Clark,7,2,Mike Spence
+1966,Jim Clark,7,0,Peter Arundell
+1966,John Surtees,6,1,Jochen Rindt
+1966,John Surtees,5,0,Jo Bonnier
+1966,John Surtees,6,0,Jo Siffert
+1967,Jack Brabham,9,2,Denny Hulme
+1967,Jackie Stewart,9,2,Mike Spence
+1967,Jackie Stewart,7,1,Chris Irwin
+1967,Jim Clark,8,3,Graham Hill
+1967,Jochen Rindt,6,1,Pedro Rodriguez
+1967,Jochen Rindt,9,1,Jo Siffert
+1967,Jochen Rindt,7,0,Jo Bonnier
+1968,Chris Amon,8,2,Jacky Ickx
+1968,Denny Hulme,7,2,Bruce Mclaren
+1968,Graham Hill,8,3,Jo Siffert
+1968,Graham Hill,10,0,Jackie Oliver
+1968,Jackie Stewart,10,0,Jean-Pierre Beltoise
+1968,Jochen Rindt,10,1,Jack Brabham
+1968,Pedro Rodriguez,9,2,Piers Courage
+1969,Denny Hulme,9,2,Bruce Mclaren
+1969,Jackie Stewart,10,0,Jean-Pierre Beltoise
+1969,Jacky Ickx,4,4,Jack Brabham
+1969,Jacky Ickx,9,1,Piers Courage
+1969,Jacky Ickx,6,1,Silvio Moser
+1969,Jochen Rindt,9,0,Graham Hill
+1969,Jochen Rindt,9,1,Jo Siffert
+1969,John Surtees,8,1,Jackie Oliver
+1970,Chris Amon,11,2,Jo Siffert
+1970,Denny Hulme,4,2,Peter Gethin
+1970,Denny Hulme,8,1,Andrea de Adamich
+1970,Jack Brabham,11,2,Rolf Stommelen
+1970,Jackie Oliver,9,1,George Eaton
+1970,Jackie Stewart,9,0,Francois Cevert
+1970,Jacky Ickx,7,2,Clay Regazzoni
+1970,Jean-Pierre Beltoise,10,3,Henri Pescarolo
+1970,Jochen Rindt,10,0,John Miles
+1970,Pedro Rodriguez,8,5,Jackie Oliver
+1970,Pedro Rodriguez,10,0,George Eaton
+1970,Peter Gethin,4,2,Andrea de Adamich
+1971,Chris Amon,6,1,Jean-Pierre Beltoise
+1971,Clay Regazzoni,5,1,Mario Andretti
+1971,Denny Hulme,6,1,Peter Gethin
+1971,Emerson Fittipaldi,6,2,Reine Wisell
+1971,Graham Hill,5,5,Tim Schenken
+1971,Jackie Stewart,10,1,Francois Cevert
+1971,Jacky Ickx,6,5,Clay Regazzoni
+1971,Jo Siffert,11,0,Howden Ganley
+1971,John Surtees,5,5,Rolf Stommelen
+1972,Carlos Pace,8,3,Henri Pescarolo
+1972,Carlos Reutemann,9,1,Graham Hill
+1972,Carlos Reutemann,7,1,Wilson Fittipaldi
+1972,Clay Regazzoni,6,4,Jacky Ickx
+1972,Emerson Fittipaldi,10,0,Dave Walker
+1972,Graham Hill,6,4,Wilson Fittipaldi
+1972,Howden Ganley,7,3,Peter Gethin
+1972,Jackie Stewart,11,0,Francois Cevert
+1972,Jean-Pierre Beltoise,6,4,Peter Gethin
+1972,Jean-Pierre Beltoise,6,4,Howden Ganley
+1972,Mike Hailwood,6,4,Tim Schenken
+1972,Mike Hailwood,9,1,Andrea de Adamich
+1972,Peter Revson,5,4,Denny Hulme
+1972,Reine Wisell,5,1,Howden Ganley
+1972,Ronnie Peterson,10,2,Niki Lauda
+1972,Tim Schenken,8,4,Andrea de Adamich
+1973,Carlos Reutemann,13,2,Wilson Fittipaldi
+1973,Clay Regazzoni,8,5,Niki Lauda
+1973,Denny Hulme,9,5,Peter Revson
+1973,Jackie Oliver,7,6,George Follmer
+1973,Jackie Stewart,10,5,Francois Cevert
+1973,Jean-Pierre Beltoise,10,4,Niki Lauda
+1973,Jean-Pierre Beltoise,7,7,Clay Regazzoni
+1973,Mike Hailwood,8,7,Carlos Pace
+1973,Ronnie Peterson,11,4,Emerson Fittipaldi
+1974,Clay Regazzoni,2,13,Niki Lauda
+1974,Denny Hulme,1,14,Emerson Fittipaldi
+1974,Denny Hulme,4,7,Mike Hailwood
+1974,Graham Hill,7,3,Guy Edwards
+1974,Henri Pescarolo,8,3,Francois Migault
+1974,Jean-Pierre Beltoise,12,0,Henri Pescarolo
+1974,Jean-Pierre Beltoise,10,1,Francois Migault
+1974,Jody Scheckter,12,3,Patrick Depailler
+1974,Mike Hailwood,1,10,Emerson Fittipaldi
+1974,Ronnie Peterson,13,2,Jacky Ickx
+1974,Tom Pryce,4,4,Jean-Pierre Jarier
+1974,Vittorio Brambilla,5,7,Hans-Joachim Stuck
+1975,Carlos Pace,8,5,Carlos Reutemann
+1975,Emerson Fittipaldi,11,2,Jochen Mass
+1975,Jean-Pierre Jarier,10,4,Tom Pryce
+1975,Jody Scheckter,9,5,Patrick Depailler
+1975,Niki Lauda,14,0,Clay Regazzoni
+1975,Ronnie Peterson,8,1,Jacky Ickx
+1975,Vittorio Brambilla,11,0,Lella Lombardi
+1976,Alan Jones,10,1,Brett Lunger
+1976,Alan Jones,9,0,Henri Pescarolo
+1976,Carlos Pace,9,3,Carlos Reutemann
+1976,James Hunt,15,1,Jochen Mass
+1976,Mario Andretti,9,3,Gunnar Nilsson
+1976,Niki Lauda,13,1,Clay Regazzoni
+1976,Patrick Depailler,10,6,Jody Scheckter
+1976,Ronnie Peterson,11,4,Vittorio Brambilla
+1976,Ronnie Peterson,13,2,Hans-Joachim Stuck
+1976,Tom Pryce,12,4,Jean-Pierre Jarier
+1977,Alan Jones,7,3,Riccardo Patrese
+1977,Ian Scheckter,9,2,Patrick Neve
+1977,Ian Scheckter,12,3,Alex Ribeiro
+1977,James Hunt,17,1,Jochen Mass
+1977,John Watson,12,3,Hans-Joachim Stuck
+1977,Mario Andretti,16,1,Gunnar Nilsson
+1977,Niki Lauda,7,8,Carlos Reutemann
+1977,Patrick Depailler,9,9,Ronnie Peterson
+1977,Vittorio Brambilla,10,0,Hans Binder
+1978,Carlos Reutemann,12,2,Gilles Villeneuve
+1978,Clay Regazzoni,9,5,Hans-Joachim Stuck
+1978,James Hunt,14,0,Patrick Tambay
+1978,James Hunt,12,0,Brett Lunger
+1978,Mario Andretti,11,3,Ronnie Peterson
+1978,Mario Andretti,12,0,Hector Rebaque
+1978,Niki Lauda,10,5,John Watson
+1978,Patrick Depailler,13,2,Didier Pironi
+1978,Riccardo Patrese,9,0,Rolf Stommelen
+1978,Vittorio Brambilla,9,2,Rupert Keegan
+1979,Alan Jones,15,0,Clay Regazzoni
+1979,Elio De Angelis,10,5,Jan Lammers
+1979,Gilles Villeneuve,8,7,Jody Scheckter
+1979,Jacques Laffite,8,0,Jacky Ickx
+1979,Jean-Pierre Jabouille,10,4,Rene Arnoux
+1979,Jean-Pierre Jarier,4,7,Didier Pironi
+1979,John Watson,13,2,Patrick Tambay
+1979,Mario Andretti,8,7,Carlos Reutemann
+1979,Mario Andretti,11,0,Hector Rebaque
+1979,Nelson Piquet,6,7,Niki Lauda
+1979,Riccardo Patrese,11,3,Jochen Mass
+1980,Alain Prost,8,3,John Watson
+1980,Alan Jones,8,6,Carlos Reutemann
+1980,Bruno Giacomelli,4,4,Patrick Depailler
+1980,Didier Pironi,8,6,Jacques Laffite
+1980,Elio De Angelis,8,6,Mario Andretti
+1980,Gilles Villeneuve,13,1,Jody Scheckter
+1980,Jean-Pierre Jabouille,7,5,Rene Arnoux
+1980,Jean-Pierre Jarier,10,4,Derek Daly
+1980,Keke Rosberg,10,4,Emerson Fittipaldi
+1980,Riccardo Patrese,9,2,Jochen Mass
+1981,Alain Prost,10,5,Rene Arnoux
+1981,Brian Henton,7,4,Derek Warwick
+1981,Carlos Reutemann,10,5,Alan Jones
+1981,Eddie Cheever,8,4,Michele Alboreto
+1981,Elio De Angelis,9,5,Nigel Mansell
+1981,Gilles Villeneuve,10,5,Didier Pironi
+1981,Jacques Laffite,7,1,Patrick Tambay
+1981,John Watson,13,1,Andrea De Cesaris
+1981,Keke Rosberg,13,0,Chico Serra
+1981,Mario Andretti,8,7,Bruno Giacomelli
+1981,Nelson Piquet,15,0,Hector Rebaque
+1981,Riccardo Patrese,13,0,Siegfried Stohr
+1982,Andrea De Cesaris,10,6,Bruno Giacomelli
+1982,Derek Warwick,8,2,Teo Fabi
+1982,Elio De Angelis,10,3,Nigel Mansell
+1982,Jacques Laffite,7,8,Eddie Cheever
+1982,Jochen Mass,4,5,Raul Boesel
+1982,Keke Rosberg,11,1,Derek Daly
+1982,Manfred Winkelhock,13,3,Eliseo Salazar
+1982,Marc Surer,10,2,Mauro Baldi
+1982,Michele Alboreto,13,0,Brian Henton
+1982,Nelson Piquet,9,6,Riccardo Patrese
+1982,Niki Lauda,11,4,John Watson
+1982,Rene Arnoux,8,8,Alain Prost
+1983,Alain Prost,13,2,Eddie Cheever
+1983,Andrea De Cesaris,13,2,Mauro Baldi
+1983,Corrado Fabi,9,6,Piercarlo Ghinzani
+1983,Derek Warwick,12,3,Bruno Giacomelli
+1983,Elio De Angelis,12,3,Nigel Mansell
+1983,Jean-Pierre Jarier,14,1,Raul Boesel
+1983,Keke Rosberg,14,1,Jacques Laffite
+1983,Marc Surer,5,5,Thierry Boutsen
+1983,Michele Alboreto,13,2,Danny Sullivan
+1983,Nelson Piquet,10,5,Riccardo Patrese
+1983,Niki Lauda,12,3,John Watson
+1983,Patrick Tambay,8,7,Rene Arnoux
+1983,Roberto Guerrero,9,3,Johnny Cecotto
+1984,Alain Prost,15,1,Niki Lauda
+1984,Andrea De Cesaris,15,1,Francois Hesnault
+1984,Ayrton Senna,7,2,Johnny Cecotto
+1984,Derek Warwick,9,6,Patrick Tambay
+1984,Eddie Cheever,7,9,Riccardo Patrese
+1984,Elio De Angelis,11,5,Nigel Mansell
+1984,Jonathan Palmer,9,6,Philippe Alliot
+1984,Keke Rosberg,14,2,Jacques Laffite
+1984,Michele Alboreto,12,4,Rene Arnoux
+1984,Nelson Piquet,12,0,Teo Fabi
+1984,Stefan Bellof,6,3,Martin Brundle
+1984,Thierry Boutsen,10,6,Marc Surer
+1985,Alain Prost,13,1,Niki Lauda
+1985,Andrea De Cesaris,7,4,Jacques Laffite
+1985,Ayrton Senna,13,3,Elio De Angelis
+1985,Keke Rosberg,9,7,Nigel Mansell
+1985,Manfred Winkelhock,6,3,Philippe Alliot
+1985,Martin Brundle,5,5,Stefan Bellof
+1985,Michele Alboreto,13,2,Stefan Johansson
+1985,Nelson Piquet,11,1,Marc Surer
+1985,Patrick Tambay,8,7,Derek Warwick
+1985,Riccardo Patrese,11,5,Eddie Cheever
+1985,Thierry Boutsen,12,4,Gerhard Berger
+1986,Alain Prost,12,4,Keke Rosberg
+1986,Alessandro Nannini,8,8,Andrea De Cesaris
+1986,Ayrton Senna,16,0,Johnny Dumfries
+1986,Gerhard Berger,13,3,Teo Fabi
+1986,Jonathan Palmer,14,0,Huub Rothengatter
+1986,Martin Brundle,14,2,Philippe Streiff
+1986,Michele Alboreto,12,4,Stefan Johansson
+1986,Nelson Piquet,8,8,Nigel Mansell
+1986,Patrick Tambay,11,4,Alan Jones
+1986,Piercarlo Ghinzani,9,0,Allen Berg
+1986,Rene Arnoux,8,1,Jacques Laffite
+1986,Riccardo Patrese,8,3,Derek Warwick
+1986,Thierry Boutsen,6,4,Christian Danner
+1987,Alain Prost,16,0,Stefan Johansson
+1987,Alessandro Nannini,16,0,Adrian Campos
+1987,Ayrton Senna,16,0,Satoru Nakajima
+1987,Derek Warwick,9,7,Eddie Cheever
+1987,Gerhard Berger,12,4,Michele Alboreto
+1987,Jonathan Palmer,8,8,Philippe Streiff
+1987,Martin Brundle,12,3,Christian Danner
+1987,Nigel Mansell,10,5,Nelson Piquet
+1987,Rene Arnoux,13,1,Piercarlo Ghinzani
+1987,Riccardo Patrese,12,3,Andrea De Cesaris
+1987,Thierry Boutsen,13,3,Teo Fabi
+1988,Ayrton Senna,14,2,Alain Prost
+1988,Derek Warwick,12,4,Eddie Cheever
+1988,Gerhard Berger,16,0,Michele Alboreto
+1988,Ivan Capelli,11,4,Mauricio Gugelmin
+1988,Jonathan Palmer,14,2,Julian Bailey
+1988,Nelson Piquet,14,1,Satoru Nakajima
+1988,Nigel Mansell,13,1,Riccardo Patrese
+1988,Philippe Alliot,12,2,Yannick Dalmas
+1988,Pierluigi Martini,6,4,Luis Perez-Sala
+1988,Rene Arnoux,12,4,Stefan Johansson
+1988,Stefano Modena,10,1,Oscar Larrauri
+1988,Thierry Boutsen,8,8,Alessandro Nannini
+1989,Alessandro Nannini,9,1,Emanuele Pirro
+1989,Alex Caffi,10,4,Andrea De Cesaris
+1989,Ayrton Senna,14,2,Alain Prost
+1989,Derek Warwick,14,1,Eddie Cheever
+1989,Gerhard Berger,7,7,Nigel Mansell
+1989,Ivan Capelli,8,8,Mauricio Gugelmin
+1989,Nelson Piquet,13,3,Satoru Nakajima
+1989,Olivier Grouillard,12,4,Rene Arnoux
+1989,Pierluigi Martini,15,0,Luis Perez-Sala
+1989,Riccardo Patrese,12,4,Thierry Boutsen
+1989,Stefano Modena,7,7,Martin Brundle
+1990,Aguri Suzuki,7,9,Eric Bernard
+1990,Alain Prost,8,8,Nigel Mansell
+1990,Andrea De Cesaris,5,9,Emanuele Pirro
+1990,Ayrton Senna,12,4,Gerhard Berger
+1990,Derek Warwick,8,6,Martin Donnelly
+1990,Ivan Capelli,12,4,Mauricio Gugelmin
+1990,Jean Alesi,16,0,Satoru Nakajima
+1990,Michele Alboreto,6,8,Alex Caffi
+1990,Nelson Piquet,9,5,Alessandro Nannini
+1990,Philippe Alliot,9,7,Nicola Larini
+1990,Pierluigi Martini,14,0,Paolo Barilla
+1990,Riccardo Patrese,8,8,Thierry Boutsen
+1990,Stefano Modena,14,0,David Brabham
+1990,Yannick Dalmas,3,5,Gabriele Tarquini
+1991,Alain Prost,12,2,Jean Alesi
+1991,Andrea De Cesaris,7,2,Bertrand Gachot
+1991,Ayrton Senna,13,2,Gerhard Berger
+1991,Emanuele Pirro,8,4,Jyrki Jarvilehto
+1991,Eric Bernard,8,4,Aguri Suzuki
+1991,Ivan Capelli,7,6,Mauricio Gugelmin
+1991,Mark Blundell,8,6,Martin Brundle
+1991,Nelson Piquet,8,3,Roberto Moreno
+1991,Nicola Larini,7,0,Eric Van De Poele
+1991,Nigel Mansell,7,8,Riccardo Patrese
+1991,Pierluigi Martini,9,5,Gianni Morbidelli
+1991,Stefano Modena,14,1,Satoru Nakajima
+1991,Thierry Boutsen,12,3,Erik Comas
+1992,Andrea De Cesaris,14,2,Olivier Grouillard
+1992,Ayrton Senna,15,1,Gerhard Berger
+1992,Bertrand Gachot,11,4,Ukyo Katayama
+1992,Gabriele Tarquini,10,0,Andrea Chiesa
+1992,Gianni Morbidelli,9,4,Christian Fittipaldi
+1992,Jean Alesi,13,1,Ivan Capelli
+1992,Johnny Herbert,9,7,Mika Hakkinen
+1992,Karl Wendlinger,10,1,Paul Belmondo
+1992,Mauricio Gugelmin,9,7,Stefano Modena
+1992,Michael Schumacher,16,0,Martin Brundle
+1992,Michele Alboreto,13,3,Aguri Suzuki
+1992,Nigel Mansell,14,2,Riccardo Patrese
+1992,Pierluigi Martini,8,8,Jyrki Jarvilehto
+1992,Thierry Boutsen,9,6,Erik Comas
+1993,Alain Prost,14,2,Damon Hill
+1993,Andrea De Cesaris,9,7,Ukyo Katayama
+1993,Ayrton Senna,13,0,Michael Andretti
+1993,Derek Warwick,9,7,Aguri Suzuki
+1993,Jean Alesi,9,7,Gerhard Berger
+1993,Johnny Herbert,9,2,Alessandro Zanardi
+1993,Karl Wendlinger,8,8,Jyrki Jarvilehto
+1993,Martin Brundle,8,8,Mark Blundell
+1993,Michael Schumacher,16,0,Riccardo Patrese
+1993,Michele Alboreto,6,8,Luca Badoer
+1993,Philippe Alliot,8,6,Erik Comas
+1993,Rubens Barrichello,10,0,Thierry Boutsen
+1994,Alessandro Zanardi,2,5,Johnny Herbert
+1994,Bertrand Gachot,13,1,Paul Belmondo
+1994,Eddie Irvine,5,7,Rubens Barrichello
+1994,Erik Comas,10,0,Olivier Beretta
+1994,Gerhard Berger,6,8,Jean Alesi
+1994,Gianni Morbidelli,10,6,Christian Fittipaldi
+1994,Heinz-Harald Frentzen,8,1,Andrea De Cesaris
+1994,Michael Schumacher,8,0,Jos Verstappen
+1994,Mika Hakkinen,15,0,Martin Brundle
+1994,Olivier Panis,10,3,Eric Bernard
+1994,Pierluigi Martini,13,3,Michele Alboreto
+1994,Ukyo Katayama,11,5,Mark Blundell
+1995,Andrea Montermini,5,5,Bertrand Gachot
+1995,Damon Hill,9,8,David Coulthard
+1995,Eddie Irvine,12,5,Rubens Barrichello
+1995,Gerhard Berger,12,5,Jean Alesi
+1995,Gianni Morbidelli,10,0,Taki Inoue
+1995,Heinz-Harald Frentzen,11,0,Jean-Christophe Boullion
+1995,Martin Brundle,8,3,Olivier Panis
+1995,Michael Schumacher,16,1,Johnny Herbert
+1995,Mika Hakkinen,11,1,Mark Blundell
+1995,Mika Salo,12,4,Ukyo Katayama
+1995,Roberto Moreno,9,8,Pedro Diniz
+1996,Damon Hill,13,3,Jacques Villeneuve
+1996,Heinz-Harald Frentzen,13,3,Johnny Herbert
+1996,Jean Alesi,13,3,Gerhard Berger
+1996,Jos Verstappen,16,0,Ricardo Rosset
+1996,Luca Badoer,7,2,Andrea Montermini
+1996,Michael Schumacher,14,1,Eddie Irvine
+1996,Mika Hakkinen,12,4,David Coulthard
+1996,Mika Salo,11,5,Ukyo Katayama
+1996,Olivier Panis,15,1,Pedro Diniz
+1996,Rubens Barrichello,11,5,Martin Brundle
+1997,Damon Hill,13,3,Pedro Diniz
+1997,Giancarlo Fisichella,10,7,Ralf Schumacher
+1997,Jacques Villeneuve,12,4,Heinz-Harald Frentzen
+1997,Jean Alesi,7,7,Gerhard Berger
+1997,Jos Verstappen,7,10,Mika Salo
+1997,Michael Schumacher,16,1,Eddie Irvine
+1997,Mika Hakkinen,11,6,David Coulthard
+1997,Olivier Panis,10,0,Shinji Nakano
+1997,Rubens Barrichello,15,2,Jan Magnussen
+1997,Ukyo Katayama,8,2,Tarso Marques
+1998,Giancarlo Fisichella,10,6,Alexander Wurz
+1998,Jacques Villeneuve,10,6,Heinz-Harald Frentzen
+1998,Jean Alesi,10,6,Johnny Herbert
+1998,Michael Schumacher,15,1,Eddie Irvine
+1998,Mika Hakkinen,13,3,David Coulthard
+1998,Mika Salo,11,5,Pedro Diniz
+1998,Olivier Panis,7,9,Jarno Trulli
+1998,Ralf Schumacher,10,6,Damon Hill
+1998,Rubens Barrichello,8,1,Jos Verstappen
+1998,Shinji Nakano,11,5,Esteban Tuero
+1998,Toranosuke Takagi,13,2,Ricardo Rosset
+1999,Giancarlo Fisichella,13,3,Alexander Wurz
+1999,Heinz-Harald Frentzen,14,2,Damon Hill
+1999,Jacques Villeneuve,11,1,Ricardo Zonta
+1999,Jarno Trulli,8,8,Olivier Panis
+1999,Jean Alesi,12,4,Pedro Diniz
+1999,Luca Badoer,9,6,Marc Gene
+1999,Michael Schumacher,9,1,Eddie Irvine
+1999,Mika Hakkinen,13,3,David Coulthard
+1999,Ralf Schumacher,11,5,Alessandro Zanardi
+1999,Rubens Barrichello,13,3,Johnny Herbert
+1999,Toranosuke Takagi,8,8,Pedro De La Rosa
+2000,Eddie Irvine,13,3,Johnny Herbert
+2000,Giancarlo Fisichella,13,4,Alexander Wurz
+2000,Heinz-Harald Frentzen,8,9,Jarno Trulli
+2000,Jacques Villeneuve,15,2,Ricardo Zonta
+2000,Jean Alesi,9,8,Nick Heidfeld
+2000,Marc Gene,14,3,Gaston Mazzacane
+2000,Michael Schumacher,15,2,Rubens Barrichello
+2000,Mika Hakkinen,10,7,David Coulthard
+2000,Mika Salo,11,6,Pedro Diniz
+2000,Pedro De La Rosa,12,5,Jos Verstappen
+2000,Ralf Schumacher,11,6,Jenson Button
+2001,Eddie Irvine,7,6,Pedro De La Rosa
+2001,Fernando Alonso,13,1,Tarso Marques
+2001,Giancarlo Fisichella,13,4,Jenson Button
+2001,Jarno Trulli,9,1,Heinz-Harald Frentzen
+2001,Jean Alesi,5,3,Luciano Burti
+2001,Jos Verstappen,7,10,Enrique Bernoldi
+2001,Michael Schumacher,16,1,Rubens Barrichello
+2001,Mika Hakkinen,9,8,David Coulthard
+2001,Nick Heidfeld,10,7,Kimi Raikkonen
+2001,Olivier Panis,6,11,Jacques Villeneuve
+2001,Ralf Schumacher,11,6,Juan Pablo Montoya
+2002,Eddie Irvine,11,6,Pedro De La Rosa
+2002,Giancarlo Fisichella,12,4,Takuma Sato
+2002,Heinz-Harald Frentzen,11,1,Enrique Bernoldi
+2002,Jacques Villeneuve,10,7,Olivier Panis
+2002,Jarno Trulli,12,5,Jenson Button
+2002,Juan Pablo Montoya,9,8,Ralf Schumacher
+2002,Kimi Raikkonen,10,7,David Coulthard
+2002,Mark Webber,15,0,Alex Yoong
+2002,Michael Schumacher,13,4,Rubens Barrichello
+2002,Mika Salo,15,2,Allan Mcnish
+2002,Nick Heidfeld,11,5,Felipe Massa
+2003,Rubens Barrichello,6,10,Michael Schumacher
+2003,Juan Pablo Montoya,6,9,Ralf Schumacher
+2003,Jarno Trulli,8,8,Fernando Alonso
+2003,Kimi Raikkonen,10,6,David Coulthard
+2003,Olivier Panis,13,3,Cristiano da Matta
+2003,Jenson Button,8,7,Jacques Villeneuve
+2003,Mark Webber,8,3,Antonio Pizzonia
+2003,Nick Heidfeld,9,7,Heinz-Harald Frentzen
+2003,Giancarlo Fisichella,12,2,Ralph Firman
+2003,Jos Verstappen,6,5,Justin Wilson
+2004,Michael Schumacher,13,5,Rubens Barrichello
+2004,Ralf Schumacher,4,8,Juan Pablo Montoya
+2004,Jarno Trulli,8,7,Fernando Alonso
+2004,Jenson Button,11,7,Takuma Sato
+2004,Kimi Raikkonen,12,6,David Coulthard
+2004,Olivier Panis,7,5,Cristiano da Matta
+2004,Giancarlo Fisichella,11,7,Felipe Massa
+2004,Mark Webber,15,3,Christian Klien
+2004,Nick Heidfeld,11,3,Giorgio Pantano
+2004,Gianmaria Bruni,10,8,Zsolt Baumgartner
+2005,Fernando Alonso,14,5,Giancarlo Fisichella
+2005,Kimi Raikkonen,12,5,Juan Pablo Montoya
+2005,Jarno Trulli,15,3,Ralf Schumacher
+2005,Jenson Button,15,1,Takuma Sato
+2005,Mark Webber,9,5,Nick Heidfeld
+2005,Michael Schumacher,12,7,Rubens Barrichello
+2005,Christian Klien,8,7,David Coulthard
+2005,Felipe Massa,13,6,Jacques Villeneuve
+2005,Narain Karthikeyan,10,9,Tiago Monteiro
+2005,Christijan Albers,5,6,Patrick Friesacher
+2006,Michael Schumacher,13,5,Felipe Massa
+2006,Fernando Alonso,12,6,Giancarlo Fisichella
+2006,Kimi Raikkonen,7,3,Juan Pablo Montoya
+2006,Jenson Button,9,9,Rubens Barrichello
+2006,Jarno Trulli,7,11,Ralf Schumacher
+2006,Nick Heidfeld,5,7,Jacques Villeneuve
+2006,Mark Webber,12,6,Nico Rosberg
+2006,David Coulthard,9,6,Christian Klien
+2006,Vitantonio Liuzzi,12,6,Scott Speed
+2006,Christijan Albers,9,5,Tiago Monteiro
+2007,Fernando Alonso,8,9,Lewis Hamilton
+2007,Felipe Massa,9,8,Kimi Raikkonen
+2007,Nick Heidfeld,12,4,Robert Kubica
+2007,Giancarlo Fisichella,8,9,Heikki Kovalainen
+2007,Mark Webber,15,2,David Coulthard
+2007,Jarno Trulli,14,3,Ralf Schumacher
+2007,Jenson Button,10,7,Rubens Barrichello
+2007,Nico Rosberg,15,1,Alexander Wurz
+2007,Anthony Davidson,11,6,Takuma Sato
+2007,Vitantonio Liuzzi,6,4,Scott Speed
+2007,Adrian Sutil,7,2,Christijan Albers
+2008,Lewis Hamilton,14,4,Heikki Kovalainen
+2008,Felipe Massa,12,6,Kimi Raikkonen
+2008,Robert Kubica,13,5,Nick Heidfeld
+2008,Jarno Trulli,14,4,Timo Glock
+2008,Mark Webber,16,2,David Coulthard
+2008,Fernando Alonso,18,0,Nelson Piquet Jr.
+2008,Sebastian Vettel,13,5,Sebastien Bourdais
+2008,Nico Rosberg,14,4,Kazuki Nakajima
+2008,Jenson Button,8,10,Rubens Barrichello
+2008,Giancarlo Fisichella,10,8,Adrian Sutil
+2009,Sebastian Vettel,15,2,Mark Webber
+2009,Rubens Barrichello,10,7,Jenson Button
+2009,Kimi Raikkonen,6,4,Felipe Massa
+2009,Jarno Trulli,11,4,Timo Glock
+2009,Lewis Hamilton,12,5,Heikki Kovalainen
+2009,Nick Heidfeld,7,10,Robert Kubica
+2009,Nico Rosberg,14,3,Kazuki Nakajima
+2009,Fernando Alonso,9,1,Nelson Piquet Jr.
+2009,Adrian Sutil,6,6,Giancarlo Fisichella
+2009,Sebastien Buemi,7,2,Sebastien Bourdais
+2010,Sebastian Vettel,12,7,Mark Webber
+2010,Lewis Hamilton,14,5,Jenson Button
+2010,Fernando Alonso,15,4,Felipe Massa
+2010,Nico Rosberg,14,5,Michael Schumacher
+2010,Rubens Barrichello,13,6,Nico Hulkenberg
+2010,Robert Kubica,17,2,Vitaly Petrov
+2010,Kamui Kobayashi,7,7,Pedro de la Rosa
+2010,Jaime Alguersuari,8,11,Sebastien Buemi
+2010,Adrian Sutil,16,3,Vitantonio Liuzzi
+2010,Heikki Kovalainen,8,11,Jarno Trulli
+2010,Timo Glock,17,2,Lucas di Grassi
+2010,Bruno Senna,6,3,Karun Chandhok
+2011,Sebastian Vettel,16,3,Mark Webber
+2011,Lewis Hamilton,13,6,Jenson Button
+2011,Fernando Alonso,15,4,Felipe Massa
+2011,Nico Rosberg,15,3,Michael Schumacher
+2011,Vitaly Petrov,7,3,Nick Heidfeld
+2011,Adrian Sutil,10,9,Paul di Resta
+2011,Sergio Perez,10,7,Kamui Kobayashi
+2011,Pastor Maldonado,8,10,Rubens Barrichello
+2011,Sebastien Buemi,13,6,Jaime Alguersuari
+2011,Heikki Kovalainen,16,2,Jarno Trulli
+2011,Timo Glock,14,5,Jerome d'Ambrosio
+2011,Vitantonio Liuzzi,6,4,Daniel Ricciardo
+2012,Sebastian Vettel,11,9,Mark Webber
+2012,Lewis Hamilton,17,3,Jenson Button
+2012,Romain Grosjean,10,9,Kimi Raikkonen
+2012,Fernando Alonso,17,3,Felipe Massa
+2012,Nico Rosberg,10,10,Michael Schumacher
+2012,Sergio Perez,11,8,Kamui Kobayashi
+2012,Nico Hulkenberg,12,7,Paul di Resta
+2012,Pastor Maldonado,18,2,Bruno Senna
+2012,Daniel Ricciardo,16,4,Jean-Eric Vergne
+2012,Heikki Kovalainen,13,7,Vitaly Petrov
+2012,Timo Glock,13,6,Charles Pic
+2012,Pedro de la Rosa,16,3,Narain Karthikeyan
+2013,Lewis Hamilton,11,8,Nico Rosberg
+2013,Sebastian Vettel,17,2,Mark Webber
+2013,Fernando Alonso,11,8,Felipe Massa
+2013,Kimi Raikkonen,11,6,Romain Grosjean
+2013,Jenson Button,9,10,Sergio Perez
+2013,Paul di Resta,12,7,Adrian Sutil
+2013,Daniel Ricciardo,15,4,Jean-Eric Vergne
+2013,Nico Hulkenberg,18,1,Esteban Gutierrez
+2013,Valtteri Bottas,12,7,Pastor Maldonado
+2013,Charles Pic,11,8,Giedo van der Garde
+2013,Jules Bianchi,17,2,Max Chilton
+2014,Nico Rosberg,12,7,Lewis Hamilton
+2014,Valtteri Bottas,13,6,Felipe Massa
+2014,Daniel Ricciardo,11,7,Sebastian Vettel
+2014,Kevin Magnussen,9,10,Jenson Button
+2014,Fernando Alonso,16,3,Kimi Raikkonen
+2014,Nico Hulkenberg,12,7,Sergio Perez
+2014,Daniil Kvyat,12,7,Jean-Eric Vergne
+2014,Adrian Sutil,10,9,Esteban Gutierrez
+2014,Romain Grosjean,15,4,Pastor Maldonado
+2014,Jules Bianchi,12,3,Max Chilton
+2014,Kamui Kobayashi,11,4,Marcus Ericsson
+2015,Lewis Hamilton,12,7,Nico Rosberg
+2015,Sebastian Vettel,15,4,Kimi Raikkonen
+2015,Valtteri Bottas,11,8,Felipe Massa
+2015,Daniel Ricciardo,12,7,Daniil Kvyat
+2015,Nico Hulkenberg,11,8,Sergio Perez
+2015,Max Verstappen,8,10,Carlos Sainz
+2015,Romain Grosjean,17,2,Pastor Maldonado
+2015,Felipe Nasr,10,9,Marcus Ericsson
+2015,Fernando Alonso,8,8,Jenson Button
+2015,Will Stevens,7,3,Roberto Merhi
+2016,Lewis Hamilton,12,9,Nico Rosberg
+2016,Daniel Ricciardo,11,6,Max Verstappen
+2016,Sebastian Vettel,10,11,Kimi Raikkonen
+2016,Nico Hulkenberg,12,9,Sergio Perez
+2016,Valtteri Bottas,17,4,Felipe Massa
+2016,Fernando Alonso,15,4,Jenson Button
+2016,Romain Grosjean,12,9,Esteban Gutierrez
+2016,Carlos Sainz,11,6,Daniil Kvyat
+2016,Kevin Magnussen,11,8,Jolyon Palmer
+2016,Marcus Ericsson,13,7,Felipe Nasr
+2016,Pascal Wehrlein,7,5,Rio Haryanto
+2017,Lewis Hamilton,13,7,Valtteri Bottas
+2017,Sebastian Vettel,15,5,Kimi Raikkonen
+2017,Max Verstappen,13,7,Daniel Ricciardo
+2017,Sergio Perez,13,7,Esteban Ocon
+2017,Carlos Sainz,8,6,Daniil Kvyat
+2017,Fernando Alonso,16,3,Stoffel Vandoorne
+2017,Nico Hulkenberg,16,0,Jolyon Palmer
+2017,Romain Grosjean,12,8,Kevin Magnussen
+2017,Felipe Massa,17,2,Lance Stroll
+2017,Pascal Wehrlein,11,7,Marcus Ericsson
+2018,Lewis Hamilton,15,6,Valtteri Bottas
+2018,Sebastian Vettel,17,4,Kimi Raikkonen
+2018,Max Verstappen,15,6,Daniel Ricciardo
+2018,Romain Grosjean,11,10,Kevin Magnussen
+2018,Nico Hulkenberg,13,8,Carlos Sainz
+2018,Esteban Ocon,16,5,Sergio Perez
+2018,Pierre Gasly,15,6,Brendon Hartley
+2018,Charles Leclerc,17,4,Marcus Ericsson
+2018,Fernando Alonso,21,0,Stoffel Vandoorne
+2018,Sergey Sirotkin,13,8,Lance Stroll
+2019,Lewis Hamilton,14,7,Valtteri Bottas
+2019,Charles Leclerc,12,9,Sebastian Vettel
+2019,Max Verstappen,8,1,Alexander Albon
+2019,Max Verstappen,11,1,Pierre Gasly
+2019,Carlos Sainz,10,11,Lando Norris
+2019,Daniel Ricciardo,13,8,Nico Hulkenberg
+2019,Kevin Magnussen,13,8,Romain Grosjean
+2019,Daniil Kvyat,5,6,Alexander Albon
+2019,Kimi Raikkonen,11,9,Antonio Giovinazzi
+2019,Pierre Gasly,7,2,Daniil Kvyat
+2019,Sergio Perez,18,3,Lance Stroll
+2019,George Russell,21,0,Robert Kubica
+2020,Lewis Hamilton,11,5,Valtteri Bottas
+2020,Charles Leclerc,13,4,Sebastian Vettel
+2020,Max Verstappen,17,0,Alexander Albon
+2020,Carlos Sainz,8,9,Lando Norris
+2020,Daniel Ricciardo,15,2,Esteban Ocon
+2020,Pierre Gasly,13,4,Daniil Kvyat
+2020,Sergio Perez,10,4,Lance Stroll
+2020,Kimi Raikkonen,8,9,Antonio Giovinazzi
+2020,Kevin Magnussen,8,7,Romain Grosjean
+2020,George Russell,16,0,Nicholas Latifi
+2021,Lewis Hamilton,16,6,Valtteri Bottas
+2021,Charles Leclerc,13,9,Carlos Sainz
+2021,Max Verstappen,20,2,Sergio Perez
+2021,Daniel Ricciardo,7,15,Lando Norris
+2021,Fernando Alonso,11,11,Esteban Ocon
+2021,Pierre Gasly,21,1,Yuki Tsunoda
+2021,Sebastian Vettel,14,8,Lance Stroll
+2021,Kimi Raikkonen,7,13,Antonio Giovinazzi
+2021,Mick Schumacher,20,2,Nikita Mazepin
+2021,George Russell,20,2,Nicholas Latifi
