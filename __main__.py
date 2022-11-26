@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     df = pd.DataFrame(firstYear.items(), columns=['PİLOT', 'İLK SEZON'])
 
-    for year, seasonTable in pd.read_csv("eloDeAngelis.csv").groupby("YIL"):
+    for year, seasonTable in pd.read_csv("qualifying_battles.csv").groupby("YIL"):
         helperDict = defaultdict(list)
         for row in seasonTable.itertuples():
             rating1 = driverPoints[row.DRIVER1]
